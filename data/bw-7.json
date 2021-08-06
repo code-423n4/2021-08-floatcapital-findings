@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "bw",
+  "address": "0x3d977eF4855A526500E901bFA43c209E0C51BA84",
+  "risk": "G",
+  "title": "Runtime constants not defined as immutable",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/7"
+}
