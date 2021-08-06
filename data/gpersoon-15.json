@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "1",
+  "title": "PERMANENT_INITIAL_LIQUIDITY_HOLDER not 100% safe",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/15"
+}
