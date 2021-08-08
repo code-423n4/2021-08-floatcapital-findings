@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "evertkors",
+  "address": "0x666B8EbFbF4D5f0CE56962a25635CfF563F13161",
+  "risk": "3",
+  "title": "Solution is susceptible to MEV, harming users.",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/30"
+}
