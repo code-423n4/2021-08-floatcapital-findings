@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "patitonar",
+  "address": "0xDaA39d73eF9b4495bfe206FF13eE29E759F95d63",
+  "risk": "G",
+  "title": "Set longShort variable as immutable in TokenFactory",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/31"
+}
