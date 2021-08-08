@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "evertkors",
+  "address": "0x666B8EbFbF4D5f0CE56962a25635CfF563F13161",
+  "risk": "G",
+  "title": "Withdrawall, read from storage twice.",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/25"
+}
