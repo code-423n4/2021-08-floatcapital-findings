@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "patitonar",
+  "address": "0xDaA39d73eF9b4495bfe206FF13eE29E759F95d63",
+  "risk": "G",
+  "title": "All variables set in constructor in SyntheticToken can be set as immutable",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/33"
+}
