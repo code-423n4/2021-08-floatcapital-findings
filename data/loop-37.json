@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "0",
+  "title": "Not defining integers as constants",
+  "issueId": 37,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/37"
+}
