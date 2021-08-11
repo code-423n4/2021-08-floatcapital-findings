@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "G",
+  "title": "TokenFactory.sol: Appropriate type declaration to avoid numerous casting",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/71"
+}
