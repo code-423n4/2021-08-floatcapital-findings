@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "pauliax",
+  "address": "0x0c4243ca087F4e4738596F33292064e847DA80dA",
+  "risk": "G",
+  "title": "Store assetPrice in int256 mapping",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/105"
+}
