@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "2",
+  "title": "Missing events/timelocks for owner/admin only functions that change critical parameters",
+  "issueId": 85,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/85"
+}
