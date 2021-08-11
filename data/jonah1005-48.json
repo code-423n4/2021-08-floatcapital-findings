@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "1",
+  "title": "LongShort should not shares the same Yield Manager between different markets",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/48"
+}
