@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "Possibly not all synths can be withdrawn",
+  "issueId": 129,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/129"
+}
