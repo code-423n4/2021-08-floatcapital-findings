@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "2",
+  "title": "initialMarket always initialize the latest market",
+  "issueId": 47,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/47"
+}
