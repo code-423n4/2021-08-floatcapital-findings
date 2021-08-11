@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "G",
+  "title": "Gas: `SyntheticToken` does not use pausing functionality",
+  "issueId": 118,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/118"
+}
