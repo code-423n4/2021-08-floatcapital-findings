@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "G",
+  "title": "Unused named returns can be removed for optimization",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/79"
+}
