@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "0xRajeev",
+  "address": "rajeev.eth",
+  "risk": "1",
+  "title": "transferPaymentTokensToUser will revert when withdrawn tokens are insufficient",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/88"
+}
