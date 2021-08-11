@@ -1,0 +1,9 @@
+{
+  "contest": "Float Capital contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`OracleManagerEthVsBtc` price data could be stale",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2021-08-floatcapital-findings/issues/121"
+}
