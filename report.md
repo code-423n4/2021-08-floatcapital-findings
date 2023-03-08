@@ -1,3 +1,11 @@
+---
+sponsor: "Float Capital"
+slug: "2021-08-floatcapital"
+date: "2021-09-16"
+title: "Float Capital contest"
+findings: "https://github.com/code-423n4/2021-08-floatcapital-findings/issues"
+contest: 22
+---
 
 # Overview
 
